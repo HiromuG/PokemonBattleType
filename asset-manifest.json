@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PokemonBattleType/static/css/main.7ce668de.css",
+    "main.css": "/PokemonBattleType/static/css/main.657f7c00.css",
     "main.js": "/PokemonBattleType/static/js/main.a4b5aca6.js",
     "static/media/dragon.svg": "/PokemonBattleType/static/media/dragon.9d32757b191cbbaea8d4d418ff5d4ed3.svg",
     "static/media/fire.svg": "/PokemonBattleType/static/media/fire.e0bd7fcab2121e7ac1ffbbe09a3ca5dd.svg",
@@ -21,11 +21,11 @@
     "static/media/electric.svg": "/PokemonBattleType/static/media/electric.bc35c5a3faf04b605c00967b94e93693.svg",
     "static/media/grass.svg": "/PokemonBattleType/static/media/grass.e09623e3345d5bf5286f5323dd923c60.svg",
     "static/media/normal.svg": "/PokemonBattleType/static/media/normal.2ba66dd583ebf70eb414a0cfd20a48be.svg",
-    "main.7ce668de.css.map": "/PokemonBattleType/static/css/main.7ce668de.css.map",
+    "main.657f7c00.css.map": "/PokemonBattleType/static/css/main.657f7c00.css.map",
     "main.a4b5aca6.js.map": "/PokemonBattleType/static/js/main.a4b5aca6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ce668de.css",
+    "static/css/main.657f7c00.css",
     "static/js/main.a4b5aca6.js"
   ]
 }
