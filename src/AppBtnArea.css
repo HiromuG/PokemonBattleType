@@ -1,0 +1,117 @@
+.App-btn-area{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin: 1.25rem;
+  }
+  .type-btn{
+    padding: 0.5rem 0.25rem;
+    margin: 0.25rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    border: 0.25rem solid #fff;
+    border-radius: 1rem;
+  }
+    .type-btn:hover{
+        color: #fff;
+        text-shadow: 2px 2px 1rem #000;
+        transition: 0.5s;
+        animation: typeBtnAni 2.5s infinite;
+    }
+        @keyframes typeBtnAni {
+            50% {background: transparent;}
+        }
+  .type-btn > *{
+    vertical-align: middle;
+  }
+  .type-icon{
+    width: 10%;
+    align-items: center; 
+    filter: drop-shadow(5px 5px 2px #000);
+  }
+  .type-text{
+    padding-left: 1rem;
+    font-family: 'Reggae One', cursive;
+  }
+    .normal{
+      background: rgb(174,174,174);
+    }
+    .fire{
+      background: rgb(255,167,102);
+    }
+    .water{
+      background: rgb(100,197,247);
+    }
+    .electric{
+      background: rgb(231,212,0);
+    }
+    .grass{
+      background: rgb(154,195,14);
+    }
+    .ice{
+      background: rgb(96,233,245);
+    }
+    .fighting{
+      background: rgb(238,105,105);
+    }
+    .poison{
+      background: rgb(171,122,202);
+    }
+    .ground{
+      background: rgb(200,168,65);
+    }
+    .flying{
+      background: rgb(100,167,241);
+    }
+    .psychic{
+      background: rgb(235,127,244);
+    }
+    .bug{
+      background: rgb(81,203,90);
+    }
+    .rock{
+      background: rgb(250,199,39);
+    }
+    .ghost{
+      background: rgb(117,110,180);
+    }
+    .dragon{
+      background: rgb(255,136,89);
+    }
+    .dark{
+      background: rgb(104,129,212);
+    }
+    .steel{
+      background: rgb(129,138,164);
+    }
+    .fairy{
+      background: rgb(252,119,153);
+    }
+/* ////////////////////////////////////////////// */
+.result-text-area{
+    display: flex;
+}
+.result-text{
+    margin-left: auto;
+    text-align: right;
+    font-size: 1.45rem;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.x2{
+    font-size: 1.6rem;
+    font-weight: 900;
+    text-shadow: 1px 1px 2px red;
+    font-family: 'RocknRoll One', sans-serif;
+}
+.no-effect{
+    font-size: 1.55rem;
+    font-weight: 900;
+    text-shadow: 1px 1px 2px blue;
+    font-family: 'RocknRoll One', sans-serif;
+}
+.hr{
+    width: 100%;
+    height: 0.5rem;
+    margin: 0.25rem auto 1rem;
+    border-radius: 2rem;
+}
